@@ -55,6 +55,11 @@ education:
       Academic Excellence Award for being the top graduate of the cohort. 
 
       Thesis title: Neural Randomized Planning for Whole Body Robot Motion. 
+
+      Courses included:
+      - AI Planning and Decision Making
+      - Intelligent Robots: Algorithms and Systems
+      - Neural Networks and Deep Learning
     button:
       text: 'Read Thesis'
       url: 'https://arxiv.org/abs/2405.11317'
@@ -71,7 +76,7 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
 work:
-  - position: Senior Robotics Software Enginner
+  - position: Senior Robotics Software Engineer
     company_name: Dyson
     company_url: 'https://www.dyson.com.sg/'
     company_logo: ''
@@ -80,8 +85,8 @@ work:
     summary: |2-
       Responsibilities include:
       - Implemented state-of-the-art robotics algorithms to realize new product features, ranging from planning, control and robot learning for both navigation and manipulation.
-      - Implemented software bridge with popular robotics simulators to faciliate research and system integration test. 
-      - Developed benchmark tools for easy and thorough evaluation of robot systems
+      - Implemented software bridge with popular robotics simulators to facilitate research and system integration test. 
+      - Developed benchmark tools for easy and thorough evaluation of robot systems.
   - position: Robotics Research Engineer
     company_name: National University of Singapore
     company_url: ''
@@ -92,7 +97,7 @@ work:
       Responsibilities include:
       - Assisted research in the area of smart household robot applications under supervision of Prof David Hsu.
       - Integrated research projects with state-of-the-art computer vision, speech recognition, planning, manipulation and indoor navigation to build a robot butler that communicates with and serves people.
-      - Delivered milestone demonstrations to external visitors
+      - Delivered milestone demonstrations to external visitors.
       - Developed and maintained robot software system architecture to enforce software consistency and cleanness. Unified all pre-existing codes into a consistent framework.
 
 # Skills
@@ -114,7 +119,7 @@ languages:
     percent: 100
   - name: Chinese
     percent: 100
-
+ 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.

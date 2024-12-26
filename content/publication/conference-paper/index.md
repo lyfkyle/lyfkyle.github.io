@@ -6,7 +6,7 @@ title: 'Invigorate: Interactive visual grounding and grasping in clutter'
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - Zhang Hanbo
-  - Lu Yunfan
+  - admin
   - Yu Cunjun
   - David Hsu
   - Lan Xuguang
