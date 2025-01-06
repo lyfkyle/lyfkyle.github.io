@@ -12,7 +12,7 @@ sections:
   - block: collection
     content:
       title: Selected Projects
-      text: I enjoy making things. Here are a selection of projects that I have worked on over the years.
+      text: I have worked on a wide range of robotics projects, from low-level embedded programming to high-level algorithmic research. Here are a selection of projects.
       filters:
         folders:
           - project
