@@ -33,7 +33,7 @@ tags:
   - Manipulation
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # links:
 # - name: ""
@@ -50,7 +50,7 @@ url_video: 'https://www.youtube.com/watch?v=wwabkhh9aAQ'
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: ''
   focal_point: ""
   preview_only: false
 
