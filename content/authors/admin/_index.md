@@ -45,12 +45,12 @@ interests:
   - Artificial Intelligence
 
 education:
-  - area: Artificial Intelligence
-    institution: National University of Singapore
+  - area: MSc Artificial Intelligence
+    institution: National University of Singapore, School of Computing
     date_start: 2020-08-01
     date_end: 2023-05-01
     summary: |
-      GPA: 4.88/5.0,
+      GPA: 4.88/5.0.
 
       Academic Excellence Award for being the top graduate of the cohort. 
 
@@ -63,12 +63,12 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://arxiv.org/abs/2405.11317'
-  - area: BSc Electrical & Electronic Engineering
+  - area: BEng Electrical & Electronic Engineering
     institution: Nanyang Technological University
     date_start: 2013-08-01
     date_end: 2017-05-01
     summary: |
-      GPA: 4.53/5.0
+      GPA: 4.53/5.0 with first class honours.
 
 work:
   - position: Senior Robotics Software Engineer
