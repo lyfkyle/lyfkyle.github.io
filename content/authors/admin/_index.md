@@ -128,7 +128,5 @@ awards:
 
 ## About Me
 
-I am a full-stack robotics software engineer with a wide range of experiences.
-I have implemented low-level embedded real-time controller for drones, as well as high-level task and motion planners for mobile manipulators.
-I have published papers on top academic conferences, as well as released actual products into consumer's hands. 
-Now I work to integrate robot into people's daily lives.
+I am a full-stack robotics software engineer with a wide range of experiences, spanning from writing low-level embedded real-time controller for drones to implementing high-level task and motion planners for mobile manipulators, from publishing papers on academic conferences to releasing products into consumer's hands. 
+Now I focus on integrating robot seamlessly into people's daily lives.
