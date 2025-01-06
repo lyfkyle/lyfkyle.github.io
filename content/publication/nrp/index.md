@@ -35,11 +35,11 @@ featured: true
 links:
 url_pdf: https://arxiv.org/abs/2405.11317
 url_code: ''
-url_dataset: '#'
-url_poster: '#'
+url_dataset: ''
+url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: '#'
+url_source: ''
 url_video: 'https://www.youtube.com/watch?v=edA8QFGHJt4&list=PLKXStPcSzMYOlLd0TGNZKoYKbWou1xPFS&index=8'
 
 # Featured image
@@ -64,11 +64,3 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
-
-This work is driven by the results in my [previous paper](/publication/conference-paper/) on LLMs.
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
