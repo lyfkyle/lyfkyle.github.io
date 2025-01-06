@@ -1,7 +1,8 @@
 ---
 title: Lunchbox E-Skateboard
 summary: 
-date: 2023-10-27
+date: 2017-12-17
+external_link: https://lyfkyle.blogspot.com/2017/12/lunchbox-eskateboard-part-0-introduction.html
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
@@ -12,12 +13,11 @@ authors:
   - admin
 
 tags:
-  - Academic
-  - Hugo Blox
-  - Markdown
+  - Robotics
+  - Embedded System
 ---
 
-TODO
+I built a custom-built electric skateboard remote-controlled from smartphone.
 
 <!-- Welcome 👋
 

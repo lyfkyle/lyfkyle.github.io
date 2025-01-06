@@ -1,7 +1,8 @@
 ---
 title: Custom Flight Controller
 summary: 
-date: 2023-10-27
+date: 2020-02-13
+external_link: https://lyfkyle.blogspot.com/2016/11/project-1-custom-flight-controller-part.html
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
@@ -12,12 +13,13 @@ authors:
   - admin
 
 tags:
-  - Academic
-  - Hugo Blox
-  - Markdown
+  - Robotics
+  - Embedded System
+  - Algorithm
+
 ---
 
-TODO
+I built a working quadcopter from scratch and wrote my own complete flight controller in C++ on STM32F4 micro-controller.
 
 <!-- Welcome 👋
 
