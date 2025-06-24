@@ -3,11 +3,11 @@
 title: Lu Yunfan
 
 # Name pronunciation (optional)
-name_pronunciation: ''
+name_pronunciation: ""
 
 # Full name (for SEO)
-first_name: Yunfan 
-last_name: Lu 
+first_name: Yunfan
+last_name: Lu
 
 # Status emoji
 status:
@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Senior Robotics Software Engineer
+role: Lead Robotics Software Engineer
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -31,7 +31,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:luyunfan44@gmail.com'
+    url: "mailto:luyunfan44@gmail.com"
     label: E-mail Me
   - icon: brands/github
     url: https://github.com/lyfkyle
@@ -52,17 +52,17 @@ education:
     summary: |
       GPA: 4.88/5.0.
 
-      Academic Excellence Award for being the top graduate of the cohort. 
+      Academic Excellence Award for being the top graduate of the cohort.
 
-      Thesis title: Neural Randomized Planning for Whole Body Robot Motion. 
+      Thesis title: Neural Randomized Planning for Whole Body Robot Motion.
 
       Courses included:
       - AI Planning and Decision Making
       - Intelligent Robots: Algorithms and Systems
       - Neural Networks and Deep Learning
     button:
-      text: 'Read Thesis'
-      url: 'https://arxiv.org/abs/2405.11317'
+      text: "Read Thesis"
+      url: "https://arxiv.org/abs/2405.11317"
   - area: BEng Electrical & Electronic Engineering
     institution: Nanyang Technological University
     date_start: 2013-08-01
@@ -73,19 +73,19 @@ education:
 work:
   - position: Senior Robotics Software Engineer
     company_name: Dyson
-    company_url: 'https://www.dyson.com.sg/'
-    company_logo: ''
+    company_url: "https://www.dyson.com.sg/"
+    company_logo: ""
     date_start: 2022-05-04
-    date_end: ''
+    date_end: ""
     summary: |2-
       Responsibilities include:
       - Implemented state-of-the-art robotics algorithms to realize new product features, ranging from planning, control and robot learning for both navigation and manipulation.
-      - Implemented software bridge with popular robotics simulators to facilitate research and system integration test. 
+      - Implemented software bridge with popular robotics simulators to facilitate research and system integration test.
       - Developed benchmark tools for easy and thorough evaluation of robot systems.
   - position: Robotics Research Engineer
     company_name: National University of Singapore
-    company_url: ''
-    company_logo: ''
+    company_url: ""
+    company_logo: ""
     date_start: 2019-07-01
     date_end: 2022-05-01
     summary: |
@@ -101,11 +101,11 @@ skills:
   - name: Technical Skills
     items:
       - name: Python
-        description: ''
+        description: ""
         percent: 100
         icon: code-bracket
       - name: C++
-        description: ''
+        description: ""
         percent: 100
         icon: chart-bar
 
@@ -114,16 +114,16 @@ languages:
     percent: 100
   - name: Chinese
     percent: 100
- 
+
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
   - title: Academic Execellence Award
-    date: '2023-11-25'
+    date: "2023-11-25"
     awarder: National University of Singapore
-    summary: Awarded as being the top graduate in the Master in Artificial Intelligence program. 
+    summary: Awarded as being the top graduate in the Master in Artificial Intelligence program.
 ---
 
 ## About Me
